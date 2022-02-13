@@ -85,10 +85,138 @@ p{
 div{
     font-weight: 600;
     color:darkgray;
+    
 
 }
 
 h3{
     padding-top: 3rem;
     font-size: 1.5rem;
+    color: black;
+}
+
+.Chethan{
+    position: absolute;
+    top:250%;
+    left: 25%;
+
+}
+
+h4{
+    font-size: 2.5rem;
+    padding-left: 10rem;
+    color: black;
+}
+
+.than img{
+    padding-top: 2rem;
+}
+
+.than p{
+    padding-right: 3rem;
+}
+
+.container{
+    display: flex;
+gap: 24rem;
+    width: 10rem;
+    padding-left: 18rem;
+    position: absolute;
+    top: 415%;
+    text-align: center;
+}
+
+h6{
+    font-size: 1rem;
+    
+    color: black;
+    
+}
+
+
+
+.container1{
+    display: flex;
+    font-size: 0.8rem;
+    position: absolute;
+    top: 420%;
+    left: 7%;
+}
+
+.container1 h6{
+
+    padding-left: 5rem;
+}
+
+.main2{
+    position: absolute;
+    top: 450%;
+    display: flex;
+    gap: 8rem;
+    padding-left: 2rem;
+}
+
+.main3{
+    position: absolute;
+    top: 475%;
+    left: 30%;
+    text-align: center;
+    padding-bottom: 8rem;
+
+}
+
+.main3 h5{
+
+    font-size: 2rem;
+}
+
+.main3 p{
+
+    font-family: sans-serif;
+    color:darkgray;
+
+}
+
+.IOS{
+    width: 15rem;
+    height: 3rem;
+    color: white;
+    background-color: darkgreen;
+    border-radius: 2rem;
+}
+
+.Mac{
+    width: 15rem;
+    height: 3rem;
+    color: white;
+    background-color: blue;
+    border-radius: 2rem;
+}
+
+.nav2{
+
+    background-color:rgb(228, 240, 230) ;
+    height: 10rem;
+    width: 100%;
+    padding-left: 1rem;
+    position: absolute;
+    top: 540%;
+    display: flex;
+    text-decoration: none;
+}
+
+ul{
+    display: flex;
+    gap: 10rem;
+    padding-top: 1rem;
+    
+
+}
+
+li{
+    padding: 0.5rem;
+    text-decoration: none;
+}
+.nav2 img{
+    padding-right: 2rem;
 }
